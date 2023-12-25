@@ -1,0 +1,16 @@
+body {
+    font-family: 'Caveat', cursive;
+    font-family: 'EB Garamond', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.banner_image {
+    width: 85%;
+    margin: 0 auto;
+    display: block;
+}
+.card {
+    box-shadow: 14px 16px 27px 6px rgba(0,0,0,0.62);
+-webkit-box-shadow: 14px 16px 27px 6px rgba(0,0,0,0.62);
+-moz-box-shadow: 14px 16px 27px 6px rgba(0,0,0,0.62);
+}
